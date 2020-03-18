@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AGQRTimetable
-{
-    public class Class1
-    {
-    }
+namespace AGQRTimetable {
+  public class AGQR {
+
+  }
 }
