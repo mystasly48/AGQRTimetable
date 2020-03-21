@@ -161,7 +161,6 @@ namespace AGQRTimetable {
               break;
             }
           }
-          PrintProgramInfo(program);
         }
       }
 
