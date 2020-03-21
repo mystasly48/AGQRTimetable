@@ -31,8 +31,8 @@ namespace SampleForms {
       AGQR agqr = new AGQR();
 
       for (int i = 0; i < 7; i++) {
-        labels[i].Text = agqr.All.Dailies[i].Date.ToString("MM/dd (ddd)", CultureInfo.CreateSpecificCulture("en-US"));
-        foreach (var p in agqr.All.Dailies[i].Programs) {
+        labels[i].Text = agqr.All[i].Date.ToString("MM/dd (ddd)", CultureInfo.CreateSpecificCulture("en-US"));
+        foreach (var p in agqr.All[i].Programs) {
           views[i].Rows.Add(p.Start.ToString("HH:mm"), p.Title);
         }
       }

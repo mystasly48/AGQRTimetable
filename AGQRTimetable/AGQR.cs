@@ -11,7 +11,7 @@ namespace AGQRTimetable {
     private static readonly Uri TimetableUri = new Uri(TimetableUrl);
 
     public DateTime ExpiryDateTime { get; private set; }
-    public WeeklyPrograms All { get; private set; }
+    public List<DailyPrograms> All { get; private set; }
 
     public bool IsExpired {
       get {
@@ -52,8 +52,8 @@ namespace AGQRTimetable {
       All = Scraping();
     }
 
-    private WeeklyPrograms Scraping() {
-      WeeklyPrograms res = new WeeklyPrograms();
+    private List<DailyPrograms> Scraping() {
+      List<DailyPrograms> res = new List<DailyPrograms>();
 
       HtmlDocument doc = new HtmlDocument();
       string html = GetHtml(TimetableUrl);
@@ -77,12 +77,11 @@ namespace AGQRTimetable {
         times[p] = today + new TimeSpan(i, 0, 0, 0);
       }
 
-      res.Dailies = new List<DailyPrograms>();
       for (int i = 0; i < 7; i++) {
         DailyPrograms dp = new DailyPrograms();
         dp.Date = times[i].Date;
         dp.Programs = new List<AGQRProgram>();
-        res.Dailies.Add(dp);
+        res.Add(dp);
       }
 
       var tbody = doc.DocumentNode.SelectNodes("//table/tbody/tr").Where(x => x.InnerText != "\n");
@@ -156,8 +155,8 @@ namespace AGQRTimetable {
 
           var spDate = getSpecialDate(program.Start);
           for (int i = 0; i < 7; i++) {
-            if (res.Dailies[i].Date == spDate) {
-              res.Dailies[i].Programs.Add(program);
+            if (res[i].Date == spDate) {
+              res[i].Programs.Add(program);
               break;
             }
           }
