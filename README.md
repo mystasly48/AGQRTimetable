@@ -73,6 +73,8 @@ Console.WriteLine(agqr.JsonSimple);
 
 今週の全番組表をJSON形式にシリアライズし、 **改行や空白でフォーマットされた文字列** を取得します。
 
+2020年3月21日に取得した番組表のJSONは[コレです](https://github.com/mystasly48/AGQRTimetable/blob/master/20200321.json)。
+
 ```csharp
 Console.WriteLine(agqr.JsonFormatted);
 ```

@@ -1,0 +1,4670 @@
+﻿[
+  {
+    "date": "2020-03-23T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-23T06:00:00",
+        "end": "2020-03-23T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE Mia REGINAのTHE CATCH",
+        "hosts": [
+          "Mia REGINA"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "mia@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-23T07:00:00",
+        "end": "2020-03-23T07:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "有澤樟太郎のあさステ！",
+        "hosts": [
+          "有澤樟太郎"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/asast/"
+        ],
+        "emails": [
+          "mon_asast@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T07:30:00",
+        "end": "2020-03-23T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "内山昂輝の1クール！",
+        "hosts": [
+          "内山昂輝"
+        ],
+        "urls": [
+          "https://twitter.com/one_joqr"
+        ],
+        "emails": [
+          "one@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T08:00:00",
+        "end": "2020-03-23T09:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "AG-ON Premium アワー　小山百代と前田佳織里のA＆Geee！",
+        "hosts": [
+          "小山百代",
+          "前田佳織里"
+        ],
+        "urls": [],
+        "emails": [
+          "geee@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T09:00:00",
+        "end": "2020-03-23T10:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "Fate/Grand Order カルデア・ラジオ局 Plus",
+        "hosts": [
+          "大久保瑠美",
+          "高橋李依",
+          "田中美海"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/fgo/"
+        ],
+        "emails": [
+          "fgo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T10:00:00",
+        "end": "2020-03-23T11:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "れい＆ゆいの文化放送ホームランラジオ！",
+        "hosts": [
+          "松嵜麗",
+          "渡部優衣"
+        ],
+        "urls": [
+          "http://www.amiami.jp/"
+        ],
+        "emails": [
+          "hrr@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T11:00:00",
+        "end": "2020-03-23T11:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "小野大輔・近藤孝行の 夢冒険～Ｄｒａｇｏｎ＆Ｔｉｇｅｒ",
+        "hosts": [
+          "小野大輔",
+          "近藤孝行"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/ddt/"
+        ],
+        "emails": [
+          "ddt@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/dragontiger.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-23T11:30:00",
+        "end": "2020-03-23T12:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "羽多野・寺島 Radio 2D LOVE",
+        "hosts": [
+          "羽多野渉",
+          "寺島拓篤"
+        ],
+        "urls": [
+          "http://www.marine-e.net/sp/2dlove/"
+        ],
+        "emails": [
+          "2dlove@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable//2Di_bana.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-23T12:00:00",
+        "end": "2020-03-23T13:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブバンケット！",
+        "hosts": [
+          "菅沼久義\t",
+          "米内佑希"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T13:00:00",
+        "end": "2020-03-23T13:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "ツキプロ★ナイト",
+        "hosts": [
+          "田所陽向",
+          "千葉瑞己"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/tsukini/"
+        ],
+        "emails": [
+          "tsukini@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T13:30:00",
+        "end": "2020-03-23T14:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "村瀬くんと八代くん（仮）",
+        "hosts": [
+          "村瀬歩",
+          "八代拓"
+        ],
+        "urls": [],
+        "emails": [
+          "murashiro@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T14:00:00",
+        "end": "2020-03-23T14:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "思春期が終わりません！！",
+        "hosts": [
+          "浅沼晋太郎",
+          "鷲崎健"
+        ],
+        "urls": [],
+        "emails": [
+          "shisyunki@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T14:30:00",
+        "end": "2020-03-23T15:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "深町寿成・小松昌平 TWO for ONE",
+        "hosts": [
+          "深町寿成",
+          "小松昌平"
+        ],
+        "urls": [
+          "https://twitter.com/tfo_agonp"
+        ],
+        "emails": [
+          "tfo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T15:00:00",
+        "end": "2020-03-23T15:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "帆世・宗悟のアダルトボーイ",
+        "hosts": [
+          "帆世 雄一　仲村 宗悟"
+        ],
+        "urls": [],
+        "emails": [
+          "adult@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T15:30:00",
+        "end": "2020-03-23T16:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "早見沙織の ふり～すたいる♪",
+        "hosts": [
+          "早見沙織"
+        ],
+        "urls": [],
+        "emails": [
+          "frst@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T16:00:00",
+        "end": "2020-03-23T17:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "アニとも！",
+        "hosts": [
+          "荒井杏子",
+          "都築わか"
+        ],
+        "urls": [],
+        "emails": [
+          "friends@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T17:00:00",
+        "end": "2020-03-23T17:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "柳原かなこの本気！アニラブ",
+        "hosts": [
+          "柳原かなこ"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb1@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T17:30:00",
+        "end": "2020-03-23T18:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "井澤美香子・諏訪ななかのふわさた",
+        "hosts": [
+          "井澤美香子",
+          "諏訪ななか"
+        ],
+        "urls": [],
+        "emails": [
+          "fuwa@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T18:00:00",
+        "end": "2020-03-23T19:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE 亜咲花のTHE CATCH",
+        "hosts": [
+          "亜咲花"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "asaka@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-23T19:00:00",
+        "end": "2020-03-23T19:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "石原夏織のCarry up!?",
+        "hosts": [
+          "石原夏織"
+        ],
+        "urls": [
+          "http://ishiharakaori.com/radio/"
+        ],
+        "emails": [
+          "carry@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T19:30:00",
+        "end": "2020-03-23T20:00:00",
+        "length": 30,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "IDOL舞SHOW〜天下旗争奪ラジオ〜",
+        "hosts": [
+          ""
+        ],
+        "urls": [
+          "http://idolbushow.com/"
+        ],
+        "emails": [
+          "dolshow@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T20:00:00",
+        "end": "2020-03-23T21:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "内山悠里菜"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cuef@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T21:00:00",
+        "end": "2020-03-23T21:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "フレッシュたかまつ",
+        "hosts": [
+          "高田憂希",
+          "松田颯水"
+        ],
+        "urls": [
+          "http://seaside-station.net/program/fresh/"
+        ],
+        "emails": [
+          "fresh@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T21:30:00",
+        "end": "2020-03-23T22:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "本渡楓と天津向の「本渡上陸作戦」",
+        "hosts": [
+          "本渡楓",
+          "天津向"
+        ],
+        "urls": [
+          "https://twitter.com/hjsakusen"
+        ],
+        "emails": [
+          "sakusen@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T22:00:00",
+        "end": "2020-03-23T23:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "井口裕香のむ～～～ん ⊂(　＾ω＾)⊃",
+        "hosts": [
+          "井口裕香"
+        ],
+        "urls": [],
+        "emails": [
+          "yukachi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T23:00:00",
+        "end": "2020-03-23T23:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "東山奈央のラジオ＠リビング",
+        "hosts": [
+          "東山奈央"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/naoliving/"
+        ],
+        "emails": [
+          "nao@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T23:30:00",
+        "end": "2020-03-24T00:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "山崎はるかとまるぴ……近っっ！！",
+        "hosts": [
+          "山崎はるか"
+        ],
+        "urls": [],
+        "emails": [
+          "pyon@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T00:00:00",
+        "end": "2020-03-24T00:57:00",
+        "length": 57,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "鷲崎健のヨルナイト×ヨルナイト",
+        "hosts": [
+          "鷲崎健"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/yonayona/"
+        ],
+        "emails": [
+          "yonayona@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%C3%97%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88150%C3%9750.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-24T00:57:00",
+        "end": "2020-03-24T01:00:00",
+        "length": 3,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ファンキル・タガタメプレゼンツ　今泉Pの絶！つながるラジオ",
+        "hosts": [
+          "今泉潤"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/pk_radio/"
+        ],
+        "emails": [
+          "pk_radio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T01:00:00",
+        "end": "2020-03-24T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "河瀬茉希と赤尾ひかるの今夜もイチヤヅケ！",
+        "hosts": [
+          "河瀬茉希",
+          "赤尾ひかる"
+        ],
+        "urls": [],
+        "emails": [
+          "ichiyaduke@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T01:30:00",
+        "end": "2020-03-24T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "西田望見・奥野香耶のず〜ぱらだいす",
+        "hosts": [
+          "西田望見",
+          "奥野香耶"
+        ],
+        "urls": [
+          "http://seaside-station.net/program/zoo/"
+        ],
+        "emails": [
+          "zoo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T02:00:00",
+        "end": "2020-03-24T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "三澤紗千香のラジオを聴くじゃんね！",
+        "hosts": [
+          "三澤紗千香"
+        ],
+        "urls": [],
+        "emails": [
+          "sachika@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T02:30:00",
+        "end": "2020-03-24T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "佐藤亜美菜のアミメン！",
+        "hosts": [
+          "佐藤亜美菜"
+        ],
+        "urls": [
+          "https://twitter.com/amimen_agqr"
+        ],
+        "emails": [
+          "amina@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T03:00:00",
+        "end": "2020-03-24T03:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "伊福部崇のラジオのラジオ",
+        "hosts": [
+          "伊福部崇",
+          "中原舜実"
+        ],
+        "urls": [],
+        "emails": [
+          "radioradio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T03:30:00",
+        "end": "2020-03-24T04:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "柳原かなこの本気！アニラブ",
+        "hosts": [
+          "柳原かなこ"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb1@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T04:00:00",
+        "end": "2020-03-24T06:00:00",
+        "length": 120,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  },
+  {
+    "date": "2020-03-24T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-24T06:00:00",
+        "end": "2020-03-24T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE 亜咲花のTHE CATCH",
+        "hosts": [
+          "亜咲花"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "asaka@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-24T07:00:00",
+        "end": "2020-03-24T07:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "松村龍之介のあさステ！",
+        "hosts": [
+          "松村龍之介"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/asast/"
+        ],
+        "emails": [
+          "tue_asast@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T07:30:00",
+        "end": "2020-03-24T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "IDOL舞SHOW〜天下旗争奪ラジオ〜",
+        "hosts": [
+          ""
+        ],
+        "urls": [
+          "http://idolbushow.com/"
+        ],
+        "emails": [
+          "dolshow@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T08:00:00",
+        "end": "2020-03-24T09:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "内山悠里菜"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cuef@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T09:00:00",
+        "end": "2020-03-24T09:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "フレッシュたかまつ",
+        "hosts": [
+          "高田憂希",
+          "松田颯水"
+        ],
+        "urls": [
+          "http://seaside-station.net/program/fresh/"
+        ],
+        "emails": [
+          "fresh@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T09:30:00",
+        "end": "2020-03-24T10:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "本渡楓と天津向の「本渡上陸作戦」",
+        "hosts": [
+          "本渡楓",
+          "天津向"
+        ],
+        "urls": [
+          "https://twitter.com/hjsakusen"
+        ],
+        "emails": [
+          "sakusen@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T10:00:00",
+        "end": "2020-03-24T11:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "井口裕香のむ～～～ん ⊂(　＾ω＾)⊃",
+        "hosts": [
+          "井口裕香"
+        ],
+        "urls": [],
+        "emails": [
+          "yukachi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T11:00:00",
+        "end": "2020-03-24T11:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "東山奈央のラジオ＠リビング",
+        "hosts": [
+          "東山奈央"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/naoliving/"
+        ],
+        "emails": [
+          "nao@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T11:30:00",
+        "end": "2020-03-24T12:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "山崎はるかとまるぴ……近っっ！！",
+        "hosts": [
+          "山崎はるか"
+        ],
+        "urls": [],
+        "emails": [
+          "pyon@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T12:00:00",
+        "end": "2020-03-24T13:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブバンケット！",
+        "hosts": [
+          "入江玲於奈",
+          "上西哲平"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T13:00:00",
+        "end": "2020-03-24T13:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "河瀬茉希と赤尾ひかるの今夜もイチヤヅケ！",
+        "hosts": [
+          "河瀬茉希",
+          "赤尾ひかる"
+        ],
+        "urls": [],
+        "emails": [
+          "ichiyaduke@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T13:30:00",
+        "end": "2020-03-24T14:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "西田望見・奥野香耶のず〜ぱらだいす",
+        "hosts": [
+          "西田望見",
+          "奥野香耶"
+        ],
+        "urls": [
+          "http://seaside-station.net/program/zoo/"
+        ],
+        "emails": [
+          "zoo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T14:00:00",
+        "end": "2020-03-24T14:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "逢田梨香子のＲＡＲＡＲＡｄｉｏ",
+        "hosts": [
+          "逢田梨香子"
+        ],
+        "urls": [],
+        "emails": [
+          "rikako@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T14:30:00",
+        "end": "2020-03-24T15:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "三澤紗千香のラジオを聴くじゃんね！",
+        "hosts": [
+          "三澤紗千香"
+        ],
+        "urls": [],
+        "emails": [
+          "sachika@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T15:00:00",
+        "end": "2020-03-24T15:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "佐藤亜美菜のアミメン！",
+        "hosts": [
+          "佐藤亜美菜"
+        ],
+        "urls": [
+          "https://twitter.com/amimen_agqr"
+        ],
+        "emails": [
+          "amina@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T15:30:00",
+        "end": "2020-03-24T16:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "伊福部崇のラジオのラジオ",
+        "hosts": [
+          "伊福部崇",
+          "中原舜実"
+        ],
+        "urls": [],
+        "emails": [
+          "radioradio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T16:00:00",
+        "end": "2020-03-24T16:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "B2takes!!の元気が出るラジオ!!",
+        "hosts": [
+          "B2takes!!"
+        ],
+        "urls": [
+          "https://twitter.com/B2_radio"
+        ],
+        "emails": [
+          "b2radio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T16:30:00",
+        "end": "2020-03-24T17:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "糸曽賢志のファンタジーユニバ！",
+        "hosts": [
+          "糸曽賢志"
+        ],
+        "urls": [
+          "https://www.fantasy-univ.jp/"
+        ],
+        "emails": [
+          "fantasy@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T17:00:00",
+        "end": "2020-03-24T17:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "根本京里の本気！アニラブ",
+        "hosts": [
+          "根本京里"
+        ],
+        "urls": [],
+        "emails": [
+          "alb2@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T17:30:00",
+        "end": "2020-03-24T18:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "渕上舞のとりあえずまぁ、話だけでも。",
+        "hosts": [
+          "渕上舞"
+        ],
+        "urls": [],
+        "emails": [
+          "torima@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T18:00:00",
+        "end": "2020-03-24T19:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE 飯田里穂のTHE CATCH",
+        "hosts": [
+          "飯田里穂"
+        ],
+        "urls": [],
+        "emails": [
+          "rippi20@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T19:00:00",
+        "end": "2020-03-24T19:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "庖丁三姉妹がキレ味抜群な番組を目指すラヂオ",
+        "hosts": [
+          "飯田ヒカル",
+          "柳原かなこ",
+          "春川友紀"
+        ],
+        "urls": [
+          "https://tenkahyakken.jp/special/hochoradio/"
+        ],
+        "emails": [
+          "hocho@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T19:30:00",
+        "end": "2020-03-24T20:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー　小市眞琴・藍原ことみのラブパレット！",
+        "hosts": [
+          "小市眞琴",
+          "藍原ことみ"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/lovepalette/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T20:00:00",
+        "end": "2020-03-24T21:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "安齋由香里"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cuew@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T21:00:00",
+        "end": "2020-03-24T21:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "TrySailのTRYangle harmony",
+        "hosts": [
+          "麻倉もも",
+          "雨宮天",
+          "夏川椎菜"
+        ],
+        "urls": [
+          "http://try.secondshot.jp/"
+        ],
+        "emails": [
+          "try@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T21:30:00",
+        "end": "2020-03-24T22:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "井上麻里奈・下田麻美のIT革命！",
+        "hosts": [
+          "井上麻里奈",
+          "下田麻美"
+        ],
+        "urls": [
+          "http://it.seaside-c.jp/"
+        ],
+        "emails": [
+          "it@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/itkakumei.gif"
+        ]
+      },
+      {
+        "start": "2020-03-24T22:00:00",
+        "end": "2020-03-24T23:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "ＲＡＤＩＯ４Ｇａｍｅｒ　ＴＡＰ（仮）",
+        "hosts": [
+          "マフィア梶田",
+          "岡本信彦"
+        ],
+        "urls": [
+          "http://www.4gamer.net/"
+        ],
+        "emails": [
+          "4gamer@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-24T23:00:00",
+        "end": "2020-03-24T23:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "内田真礼とおはなししません？",
+        "hosts": [
+          "内田真礼"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/maaya/"
+        ],
+        "emails": [
+          "maaya@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC%E3%81%A8%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%EF%BC%9F.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-24T23:30:00",
+        "end": "2020-03-25T00:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "セブン-イレブンpresents佐倉としたい大西",
+        "hosts": [
+          "佐倉綾音",
+          "大西沙織"
+        ],
+        "urls": [
+          "https://www.onsen.ag/program/toshitai/"
+        ],
+        "emails": [
+          "toshitai@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T00:00:00",
+        "end": "2020-03-25T00:57:00",
+        "length": 57,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "鷲崎健のヨルナイト×ヨルナイト",
+        "hosts": [
+          "鷲崎健",
+          "沢口けいこ"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/yonayona/"
+        ],
+        "emails": [
+          "yonayona@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%C3%97%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88150%C3%9750.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-25T00:57:00",
+        "end": "2020-03-25T01:00:00",
+        "length": 3,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ファンキル・タガタメプレゼンツ　今泉Pの絶！つながるラジオ",
+        "hosts": [
+          "今泉潤"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/pk_radio/"
+        ],
+        "emails": [
+          "pk_radio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T01:00:00",
+        "end": "2020-03-25T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "洲崎西",
+        "hosts": [
+          "洲崎綾",
+          "西明日香"
+        ],
+        "urls": [
+          "http://seaside-c.jp/program/suzakinishi/"
+        ],
+        "emails": [
+          "suzakinishi@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/suzakinishi.gif"
+        ]
+      },
+      {
+        "start": "2020-03-25T01:30:00",
+        "end": "2020-03-25T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "田中美海のかもん！みなはうす",
+        "hosts": [
+          "田中美海"
+        ],
+        "urls": [],
+        "emails": [
+          "comeon@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T02:00:00",
+        "end": "2020-03-25T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "高垣彩陽のあしたも晴レルヤ",
+        "hosts": [
+          "高垣彩陽"
+        ],
+        "urls": [
+          "http://hareruya.secondshot.jp/"
+        ],
+        "emails": [
+          "ayahi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T02:30:00",
+        "end": "2020-03-25T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "豊田萌絵のアイドル畑でつかまえて",
+        "hosts": [
+          "豊田萌絵"
+        ],
+        "urls": [
+          "https://twitter.com/idolfarm_moeshi"
+        ],
+        "emails": [
+          "moe@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T03:00:00",
+        "end": "2020-03-25T03:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "学園祭学園プレゼンツ　喋れ！学園祭",
+        "hosts": [
+          "学園祭学園"
+        ],
+        "urls": [],
+        "emails": [
+          "kuritakun@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T03:30:00",
+        "end": "2020-03-25T04:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "根本京里の本気！アニラブ",
+        "hosts": [
+          "根本京里"
+        ],
+        "urls": [],
+        "emails": [
+          "alb2@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T04:00:00",
+        "end": "2020-03-25T06:00:00",
+        "length": 120,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  },
+  {
+    "date": "2020-03-25T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-25T06:00:00",
+        "end": "2020-03-25T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE 飯田里穂のTHE CATCH",
+        "hosts": [
+          "飯田里穂"
+        ],
+        "urls": [],
+        "emails": [
+          "rippi20@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T07:00:00",
+        "end": "2020-03-25T07:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "矢崎広のあさステ！",
+        "hosts": [
+          "矢崎広"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/asast/"
+        ],
+        "emails": [
+          "wed_asast@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T07:30:00",
+        "end": "2020-03-25T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "学園祭学園プレゼンツ　喋れ！学園祭",
+        "hosts": [
+          "学園祭学園"
+        ],
+        "urls": [],
+        "emails": [
+          "kuritakun@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T08:00:00",
+        "end": "2020-03-25T09:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "安齋由香里"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cuew@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T09:00:00",
+        "end": "2020-03-25T09:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "TrySailのTRYangle harmony",
+        "hosts": [
+          "麻倉もも",
+          "雨宮天",
+          "夏川椎菜"
+        ],
+        "urls": [
+          "http://try.secondshot.jp/"
+        ],
+        "emails": [
+          "try@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T09:30:00",
+        "end": "2020-03-25T10:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "井上麻里奈・下田麻美のIT革命！",
+        "hosts": [
+          "井上麻里奈",
+          "下田麻美"
+        ],
+        "urls": [
+          "http://it.seaside-c.jp/"
+        ],
+        "emails": [
+          "it@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/itkakumei.gif"
+        ]
+      },
+      {
+        "start": "2020-03-25T10:00:00",
+        "end": "2020-03-25T11:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "ＲＡＤＩＯ４Ｇａｍｅｒ　ＴＡＰ（仮）",
+        "hosts": [
+          "マフィア梶田",
+          "岡本信彦"
+        ],
+        "urls": [
+          "http://www.4gamer.net/"
+        ],
+        "emails": [
+          "4gamer@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T11:00:00",
+        "end": "2020-03-25T11:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "内田真礼とおはなししません？",
+        "hosts": [
+          "内田真礼"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/maaya/"
+        ],
+        "emails": [
+          "maaya@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC%E3%81%A8%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%EF%BC%9F.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-25T11:30:00",
+        "end": "2020-03-25T12:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "セブン-イレブンpresents佐倉としたい大西",
+        "hosts": [
+          "佐倉綾音",
+          "大西沙織"
+        ],
+        "urls": [
+          "https://www.onsen.ag/program/toshitai/"
+        ],
+        "emails": [
+          "toshitai@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T12:00:00",
+        "end": "2020-03-25T13:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブバンケット！",
+        "hosts": [
+          "赤羽根健治",
+          "濱健人"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T13:00:00",
+        "end": "2020-03-25T13:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "洲崎西",
+        "hosts": [
+          "洲崎綾",
+          "西明日香"
+        ],
+        "urls": [
+          "http://seaside-c.jp/program/suzakinishi/"
+        ],
+        "emails": [
+          "suzakinishi@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/suzakinishi.gif"
+        ]
+      },
+      {
+        "start": "2020-03-25T13:30:00",
+        "end": "2020-03-25T14:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "田中美海のかもん！みなはうす",
+        "hosts": [
+          "田中美海"
+        ],
+        "urls": [],
+        "emails": [
+          "comeon@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T14:00:00",
+        "end": "2020-03-25T14:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "ワシザキスタイル＊ヨシオカモード",
+        "hosts": [
+          "鷲崎健",
+          "吉岡茉祐"
+        ],
+        "urls": [],
+        "emails": [
+          "mode@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T14:30:00",
+        "end": "2020-03-25T15:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "高垣彩陽のあしたも晴レルヤ",
+        "hosts": [
+          "高垣彩陽"
+        ],
+        "urls": [
+          "http://hareruya.secondshot.jp/"
+        ],
+        "emails": [
+          "ayahi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T15:00:00",
+        "end": "2020-03-25T15:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "豊田萌絵のアイドル畑でつかまえて",
+        "hosts": [
+          "豊田萌絵"
+        ],
+        "urls": [
+          "https://twitter.com/idolfarm_moeshi"
+        ],
+        "emails": [
+          "moe@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T15:30:00",
+        "end": "2020-03-25T16:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "渕上舞のとりあえずまぁ、話だけでも。",
+        "hosts": [
+          "渕上舞"
+        ],
+        "urls": [],
+        "emails": [
+          "torima@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T16:00:00",
+        "end": "2020-03-25T16:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "諏訪道彦のスワラジ",
+        "hosts": [
+          "諏訪道彦"
+        ],
+        "urls": [],
+        "emails": [
+          "suwacchi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T16:30:00",
+        "end": "2020-03-25T17:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "大坪龍矢＆中優一郎のsmall BANG!!",
+        "hosts": [
+          "大坪龍矢",
+          "中優一郎"
+        ],
+        "urls": [
+          "http://ag-ag.com/"
+        ],
+        "emails": [
+          "small@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T17:00:00",
+        "end": "2020-03-25T17:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "西山彩佳の本気！アニラブ",
+        "hosts": [
+          "西山彩佳"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb3@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T17:30:00",
+        "end": "2020-03-25T18:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "ノン子とのび太の アニメスクランブル",
+        "hosts": [
+          "日髙のり子",
+          "長谷川のび太"
+        ],
+        "urls": [
+          "http://www.joqr.net/blog/anisc/"
+        ],
+        "emails": [
+          "anisc@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T18:00:00",
+        "end": "2020-03-25T19:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE YURiKAのTHE CATCH",
+        "hosts": [
+          "YURiKA"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "yurika@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-25T19:00:00",
+        "end": "2020-03-25T19:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "丹下桜のRadio・A・La・Mode",
+        "hosts": [
+          "丹下桜"
+        ],
+        "urls": [],
+        "emails": [
+          "alamode@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T19:30:00",
+        "end": "2020-03-25T20:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "鬼頭明里のｓｍｉｌｅｙ ｐｏｐ",
+        "hosts": [
+          "鬼頭明里"
+        ],
+        "urls": [],
+        "emails": [
+          "smp@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T20:00:00",
+        "end": "2020-03-25T21:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "宮原颯希"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cueb@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T21:00:00",
+        "end": "2020-03-25T21:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "内田雄馬 君の話を焼かせて",
+        "hosts": [
+          "内田雄馬"
+        ],
+        "urls": [
+          "https://twitter.com/yuma_yakiuchi"
+        ],
+        "emails": [
+          "yuma@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T21:30:00",
+        "end": "2020-03-25T22:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "スター ” ラジ ” オーシャン　アナムネシス",
+        "hosts": [
+          "中村悠一",
+          "マフィア梶田"
+        ],
+        "urls": [
+          "http://www.jp.square-enix.com/soa/"
+        ],
+        "emails": [
+          "sro@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T22:00:00",
+        "end": "2020-03-25T23:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "文化放送モバイルplus presents 生放送",
+        "hosts": [
+          ""
+        ],
+        "urls": [
+          "http://agqr.jp"
+        ],
+        "emails": [
+          "nama@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T23:00:00",
+        "end": "2020-03-25T23:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "駒田航 K-WAVE Radio",
+        "hosts": [
+          "駒田航"
+        ],
+        "urls": [
+          "https://twitter.com/komada_kwave"
+        ],
+        "emails": [
+          "kwave@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-25T23:30:00",
+        "end": "2020-03-26T00:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "斉藤壮馬・石川界人のダメじゃないラジオ",
+        "hosts": [
+          "斉藤壮馬",
+          "石川界人"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/dame/"
+        ],
+        "emails": [
+          "dame@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T00:00:00",
+        "end": "2020-03-26T00:57:00",
+        "length": 57,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "鷲崎健のヨルナイト×ヨルナイト",
+        "hosts": [
+          "鷲崎健",
+          "青木佑磨"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/yonayona/"
+        ],
+        "emails": [
+          "yonayona@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%C3%97%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88150%C3%9750.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-26T00:57:00",
+        "end": "2020-03-26T01:00:00",
+        "length": 3,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ファンキル・タガタメプレゼンツ　今泉Pの絶！つながるラジオ",
+        "hosts": [
+          "今泉潤"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/pk_radio/"
+        ],
+        "emails": [
+          "pk_radio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T01:00:00",
+        "end": "2020-03-26T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "千葉翔也・野上翔の翔福翔来！！",
+        "hosts": [
+          "千葉翔也",
+          "野上翔"
+        ],
+        "urls": [
+          "http://www.marine-e.net/sp/showshowradio/"
+        ],
+        "emails": [
+          "show@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/img/shoushou_bnr_20190702.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-26T01:30:00",
+        "end": "2020-03-26T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "真夜中エンカウント～MIDNIGHT ENCOUNT～",
+        "hosts": [
+          "深町寿成",
+          "高塚智人",
+          "酒井広大",
+          "狩野翔"
+        ],
+        "urls": [
+          "https://twitter.com/mayonaka_ec"
+        ],
+        "emails": [
+          "mayonaka@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T02:00:00",
+        "end": "2020-03-26T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "土岐隼一 ラジオ “ Time with You ”",
+        "hosts": [
+          "土岐隼一"
+        ],
+        "urls": [
+          "https://twitter.com/time_joqr"
+        ],
+        "emails": [
+          "time@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T02:30:00",
+        "end": "2020-03-26T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "雲水の今晩どうしましょう！？",
+        "hosts": [
+          "小野賢章",
+          "早乙女じょうじ",
+          "寺山武志",
+          "岸本卓也"
+        ],
+        "urls": [],
+        "emails": [
+          "unsui@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T03:00:00",
+        "end": "2020-03-26T03:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "谷山紀章の明日もがんばります！",
+        "hosts": [
+          "谷山紀章"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/ganba/"
+        ],
+        "emails": [
+          "ganba@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T03:30:00",
+        "end": "2020-03-26T04:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "西山彩佳の本気！アニラブ",
+        "hosts": [
+          "西山彩佳"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb3@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T04:00:00",
+        "end": "2020-03-26T06:00:00",
+        "length": 120,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  },
+  {
+    "date": "2020-03-26T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-26T06:00:00",
+        "end": "2020-03-26T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE YURiKAのTHE CATCH",
+        "hosts": [
+          "YURiKA"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "yurika@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-26T07:00:00",
+        "end": "2020-03-26T07:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "東啓介のあさステ！",
+        "hosts": [
+          "東啓介"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/asast/"
+        ],
+        "emails": [
+          "thu_asast@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T07:30:00",
+        "end": "2020-03-26T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "鬼頭明里のｓｍｉｌｅｙ ｐｏｐ",
+        "hosts": [
+          "鬼頭明里"
+        ],
+        "urls": [],
+        "emails": [
+          "smp@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T08:00:00",
+        "end": "2020-03-26T09:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "宮原颯希"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cueb@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T09:00:00",
+        "end": "2020-03-26T09:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "内田雄馬 君の話を焼かせて",
+        "hosts": [
+          "内田雄馬"
+        ],
+        "urls": [
+          "https://twitter.com/yuma_yakiuchi"
+        ],
+        "emails": [
+          "yuma@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T09:30:00",
+        "end": "2020-03-26T10:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "スター”ラジ”オーシャン",
+        "hosts": [
+          "中村悠一",
+          "マフィア梶田"
+        ],
+        "urls": [
+          "http://www.jp.square-enix.com/soa/"
+        ],
+        "emails": [
+          "sro@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T10:00:00",
+        "end": "2020-03-26T11:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "文化放送モバイルplus presents 生放送",
+        "hosts": [
+          ""
+        ],
+        "urls": [
+          "http://agqr.jp"
+        ],
+        "emails": [
+          "nama@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T11:00:00",
+        "end": "2020-03-26T11:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "駒田航 K-WAVE Radio",
+        "hosts": [
+          "駒田航"
+        ],
+        "urls": [
+          "https://twitter.com/komada_kwave"
+        ],
+        "emails": [
+          "kwave@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T11:30:00",
+        "end": "2020-03-26T12:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "斉藤壮馬・石川界人のダメじゃないラジオ",
+        "hosts": [
+          "斉藤壮馬",
+          "石川界人"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/dame/"
+        ],
+        "emails": [
+          "dame@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T12:00:00",
+        "end": "2020-03-26T13:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブバンケット！",
+        "hosts": [
+          "保住有哉",
+          "三浦勝之"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T13:00:00",
+        "end": "2020-03-26T13:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "千葉翔也・野上翔の翔福翔来！！",
+        "hosts": [
+          "千葉翔也",
+          "野上翔"
+        ],
+        "urls": [
+          "http://www.marine-e.net/sp/showshowradio/"
+        ],
+        "emails": [
+          "show@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/img/shoushou_bnr_20190702.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-26T13:30:00",
+        "end": "2020-03-26T14:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "真夜中エンカウント～MIDNIGHT ENCOUNT～",
+        "hosts": [
+          "深町寿成",
+          "高塚智人",
+          "酒井広大",
+          "狩野翔"
+        ],
+        "urls": [
+          "https://twitter.com/mayonaka_ec"
+        ],
+        "emails": [
+          "mayonaka@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T14:00:00",
+        "end": "2020-03-26T14:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "ノン子とのび太の アニメスクランブル",
+        "hosts": [
+          "日髙のり子",
+          "長谷川のび太"
+        ],
+        "urls": [
+          "http://www.joqr.net/blog/anisc/"
+        ],
+        "emails": [
+          "anisc@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T14:30:00",
+        "end": "2020-03-26T15:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "土岐隼一 ラジオ “ Time with You ”",
+        "hosts": [
+          "土岐隼一"
+        ],
+        "urls": [
+          "https://twitter.com/time_joqr"
+        ],
+        "emails": [
+          "time@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T15:00:00",
+        "end": "2020-03-26T15:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "雲水の今晩どうしましょう！？",
+        "hosts": [
+          "小野賢章",
+          "早乙女じょうじ",
+          "寺山武志",
+          "岸本卓也"
+        ],
+        "urls": [],
+        "emails": [
+          "unsui@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T15:30:00",
+        "end": "2020-03-26T16:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "谷山紀章の明日もがんばります！",
+        "hosts": [
+          "谷山紀章"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/ganba/"
+        ],
+        "emails": [
+          "ganba@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T16:00:00",
+        "end": "2020-03-26T16:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "アクターズゲート　ココからはじまる3人娘",
+        "hosts": [
+          "中條智尋",
+          "川地真央",
+          "五月女楓"
+        ],
+        "urls": [],
+        "emails": [
+          "gate@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T16:30:00",
+        "end": "2020-03-26T17:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "松本夏葵と大石歩佳のらじぽっ！",
+        "hosts": [
+          "松本夏葵",
+          "大石歩佳"
+        ],
+        "urls": [],
+        "emails": [
+          "radipo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T17:00:00",
+        "end": "2020-03-26T17:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "高橋美佳子の本気！アニラブ",
+        "hosts": [
+          "高橋美佳子"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb4@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T17:30:00",
+        "end": "2020-03-26T18:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ラジオアニメージュ",
+        "hosts": [
+          "久保田未夢（i☆Ris）"
+        ],
+        "urls": [
+          "http://animage.jp/"
+        ],
+        "emails": [
+          "animage@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T18:00:00",
+        "end": "2020-03-26T19:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE 沢城千春のTHE CATCH",
+        "hosts": [
+          "沢城千春"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "chiharu@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-26T19:00:00",
+        "end": "2020-03-26T19:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "Pyxisの夜空の下　de Meeting",
+        "hosts": [
+          "Pyxis（伊藤美来",
+          "豊田萌絵）"
+        ],
+        "urls": [],
+        "emails": [
+          "pyxis_rf@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T19:30:00",
+        "end": "2020-03-26T20:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "伊波杏樹のRadio Curtain Call",
+        "hosts": [
+          "伊波杏樹"
+        ],
+        "urls": [
+          "https://twitter.com/anju_rcc"
+        ],
+        "emails": [
+          "anju@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T20:00:00",
+        "end": "2020-03-26T21:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "土屋李央"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cuem@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T21:00:00",
+        "end": "2020-03-26T21:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "アニゲラ！ディドゥーーン！！！",
+        "hosts": [
+          "杉田智和",
+          "マフィア梶田",
+          "有象無象の皆さん"
+        ],
+        "urls": [],
+        "emails": [
+          "gera@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T21:30:00",
+        "end": "2020-03-26T22:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "超!A&G+マンスリースペシャル 宮本侑芽のぽじ×ぽじ",
+        "hosts": [
+          "宮本侑芽"
+        ],
+        "urls": [],
+        "emails": [
+          "msp@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T22:00:00",
+        "end": "2020-03-26T23:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Audio",
+        "title": "豊崎愛生のおかえりらじお",
+        "hosts": [
+          "豊崎愛生"
+        ],
+        "urls": [
+          "http://okaeri.secondshot.jp/"
+        ],
+        "emails": [
+          "okaeri@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T23:00:00",
+        "end": "2020-03-26T23:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "花澤香菜のひとりでできるかな？",
+        "hosts": [
+          "花澤香菜"
+        ],
+        "urls": [
+          "https://twitter.com/hitokana_qr"
+        ],
+        "emails": [
+          "dekirukana@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-26T23:30:00",
+        "end": "2020-03-27T00:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "竹達・沼倉の初ラジ！",
+        "hosts": [
+          "竹達彩奈",
+          "沼倉愛美"
+        ],
+        "urls": [],
+        "emails": [
+          "wiwi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T00:00:00",
+        "end": "2020-03-27T00:57:00",
+        "length": 57,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "鷲崎健のヨルナイト×ヨルナイト",
+        "hosts": [
+          "鷲崎健",
+          "ゲスト"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/yonayona/"
+        ],
+        "emails": [
+          "yonayona@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%C3%97%E3%83%A8%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88150%C3%9750.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-27T00:57:00",
+        "end": "2020-03-27T01:00:00",
+        "length": 3,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ファンキル・タガタメプレゼンツ　今泉Pの絶！つながるラジオ",
+        "hosts": [
+          "今泉潤"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/pk_radio/"
+        ],
+        "emails": [
+          "pk_radio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T01:00:00",
+        "end": "2020-03-27T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "徳井青空のまぁるくなぁれ！",
+        "hosts": [
+          "徳井青空"
+        ],
+        "urls": [],
+        "emails": [
+          "maru@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T01:30:00",
+        "end": "2020-03-27T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "はーい！鈴代です！ 今行きまーす！",
+        "hosts": [
+          "鈴代紗弓"
+        ],
+        "urls": [
+          "https://twitter.com/suzuhome_qr"
+        ],
+        "emails": [
+          "suzuhome@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T02:00:00",
+        "end": "2020-03-27T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "阿澄佳奈 星空ひなたぼっこ",
+        "hosts": [
+          "阿澄佳奈"
+        ],
+        "urls": [],
+        "emails": [
+          "asumin@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T02:30:00",
+        "end": "2020-03-27T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "能登麻美子　おはなしＮＯＴＥ",
+        "hosts": [
+          "能登麻美子"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/note/"
+        ],
+        "emails": [
+          "note@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T03:00:00",
+        "end": "2020-03-27T03:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "柿原と流田のラジオ＋（　　　　）",
+        "hosts": [
+          "柿原徹也",
+          "流田豊"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/knf/"
+        ],
+        "emails": [
+          "knf@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T03:30:00",
+        "end": "2020-03-27T04:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "高橋美佳子の本気！アニラブ",
+        "hosts": [
+          "高橋美佳子"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb4@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T04:00:00",
+        "end": "2020-03-27T06:00:00",
+        "length": 120,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  },
+  {
+    "date": "2020-03-27T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-27T06:00:00",
+        "end": "2020-03-27T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE 沢城千春のTHE CATCH",
+        "hosts": [
+          "沢城千春"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "chiharu@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-27T07:00:00",
+        "end": "2020-03-27T07:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "三浦涼介のあさステ！",
+        "hosts": [
+          "三浦涼介"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/asast/"
+        ],
+        "emails": [
+          "fri_asast@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T07:30:00",
+        "end": "2020-03-27T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "丹下桜のRadio・A・La・Mode",
+        "hosts": [
+          "丹下桜"
+        ],
+        "urls": [],
+        "emails": [
+          "alamode@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T08:00:00",
+        "end": "2020-03-27T09:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇ ＮＥＸＴ ＩＣＯＮ 超！ＣＵＥ！＆Ａ",
+        "hosts": [
+          "土屋李央"
+        ],
+        "urls": [
+          "https://www.cue-liber.jp/"
+        ],
+        "emails": [
+          "cuem@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T09:00:00",
+        "end": "2020-03-27T09:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "アニゲラ！ディドゥーーン！！！",
+        "hosts": [
+          "杉田智和",
+          "マフィア梶田",
+          "有象無象の皆さん"
+        ],
+        "urls": [],
+        "emails": [
+          "gera@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T09:30:00",
+        "end": "2020-03-27T10:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "超!A&G+マンスリースペシャル 宮本侑芽のぽじ×ぽじ",
+        "hosts": [
+          "宮本侑芽"
+        ],
+        "urls": [],
+        "emails": [
+          "msp@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T10:00:00",
+        "end": "2020-03-27T11:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "豊崎愛生のおかえりらじお",
+        "hosts": [
+          "豊崎愛生"
+        ],
+        "urls": [
+          "http://okaeri.secondshot.jp/"
+        ],
+        "emails": [
+          "okaeri@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T11:00:00",
+        "end": "2020-03-27T11:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "花澤香菜のひとりでできるかな？",
+        "hosts": [
+          "花澤香菜"
+        ],
+        "urls": [
+          "https://twitter.com/hitokana_qr"
+        ],
+        "emails": [
+          "dekirukana@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T11:30:00",
+        "end": "2020-03-27T12:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "竹達・沼倉の初ラジ！",
+        "hosts": [
+          "竹達彩奈",
+          "沼倉愛美"
+        ],
+        "urls": [],
+        "emails": [
+          "wiwi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T12:00:00",
+        "end": "2020-03-27T13:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブバンケット！",
+        "hosts": [
+          "粕谷雄太",
+          "神尾晋一郎"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T13:00:00",
+        "end": "2020-03-27T13:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "徳井青空のまぁるくなぁれ！",
+        "hosts": [
+          "徳井青空"
+        ],
+        "urls": [],
+        "emails": [
+          "maru@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T13:30:00",
+        "end": "2020-03-27T14:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "はーい！鈴代です！ 今行きまーす！",
+        "hosts": [
+          "鈴代紗弓"
+        ],
+        "urls": [
+          "https://twitter.com/suzuhome_qr"
+        ],
+        "emails": [
+          "suzuhome@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T14:00:00",
+        "end": "2020-03-27T14:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "ラジオアニメージュ",
+        "hosts": [
+          "久保田未夢（i☆Ris）"
+        ],
+        "urls": [
+          "http://animage.jp/"
+        ],
+        "emails": [
+          "animage@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T14:30:00",
+        "end": "2020-03-27T15:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "阿澄佳奈 星空ひなたぼっこ",
+        "hosts": [
+          "阿澄佳奈"
+        ],
+        "urls": [],
+        "emails": [
+          "asumin@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T15:00:00",
+        "end": "2020-03-27T15:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "能登麻美子　おはなしＮＯＴＥ",
+        "hosts": [
+          "能登麻美子"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/note/"
+        ],
+        "emails": [
+          "note@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T15:30:00",
+        "end": "2020-03-27T16:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "柿原と流田のラジオ＋（　　　　）",
+        "hosts": [
+          "柿原徹也",
+          "流田豊"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/knf/"
+        ],
+        "emails": [
+          "knf@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T16:00:00",
+        "end": "2020-03-27T17:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "超！Ａ＆Ｇ＋ スペシャル",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [
+          "sag@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T17:00:00",
+        "end": "2020-03-27T17:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "八木菜緒のガチ！コスラブ",
+        "hosts": [
+          "八木菜緒"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb5@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T17:30:00",
+        "end": "2020-03-27T18:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "i☆Ristation!!",
+        "hosts": [
+          "i☆Ris"
+        ],
+        "urls": [],
+        "emails": [
+          "iris@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T18:00:00",
+        "end": "2020-03-27T19:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "A&G ARTIST ZONE Mia REGINAのTHE CATCH",
+        "hosts": [
+          "Mia REGINA"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/2h/"
+        ],
+        "emails": [
+          "mia@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81150X50.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-27T19:00:00",
+        "end": "2020-03-27T19:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー　クイーンズブレイド TRIANGLEスクランブル",
+        "hosts": [
+          "山北早紀",
+          "澁谷梓希",
+          "櫻井海亜"
+        ],
+        "urls": [
+          "https://queensblade-wt.bn-ent.net/special/and-cast/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T19:30:00",
+        "end": "2020-03-27T20:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー　小松未可子・近藤玲奈のラブパレット！",
+        "hosts": [
+          "小松未可子",
+          "近藤玲奈"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/lovepalette/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T20:00:00",
+        "end": "2020-03-27T21:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "AG-ON Premium アワー　小山百代と前田佳織里のA＆Geee！",
+        "hosts": [
+          "小山百代",
+          "前田佳織里"
+        ],
+        "urls": [],
+        "emails": [
+          "geee@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T21:00:00",
+        "end": "2020-03-27T22:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "Fate/Grand Order カルデア・ラジオ局 Plus",
+        "hosts": [
+          "大久保瑠美",
+          "高橋李依",
+          "田中美海"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/fgo/"
+        ],
+        "emails": [
+          "fgo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T22:00:00",
+        "end": "2020-03-27T23:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "れい＆ゆいの文化放送ホームランラジオ！",
+        "hosts": [
+          "松嵜麗",
+          "渡部優衣"
+        ],
+        "urls": [
+          "http://www.amiami.jp/"
+        ],
+        "emails": [
+          "hrr@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-27T23:00:00",
+        "end": "2020-03-27T23:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "小野大輔・近藤孝行の 夢冒険～Ｄｒａｇｏｎ＆Ｔｉｇｅｒ",
+        "hosts": [
+          "小野大輔",
+          "近藤孝行"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/blog/ddt/"
+        ],
+        "emails": [
+          "ddt@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/dragontiger.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-27T23:30:00",
+        "end": "2020-03-28T00:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "羽多野・寺島 Radio 2D LOVE",
+        "hosts": [
+          "羽多野渉",
+          "寺島拓篤"
+        ],
+        "urls": [
+          "http://www.marine-e.net/sp/2dlove/"
+        ],
+        "emails": [
+          "2dlove@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable//2Di_bana.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-28T00:00:00",
+        "end": "2020-03-28T00:57:00",
+        "length": 57,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "千葉翔也のトゥー・ビー・ナイト",
+        "hosts": [
+          "千葉翔也"
+        ],
+        "urls": [],
+        "emails": [
+          "chibanai@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T00:57:00",
+        "end": "2020-03-28T01:00:00",
+        "length": 3,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ファンキル・タガタメプレゼンツ　今泉Pの絶！つながるラジオ",
+        "hosts": [
+          "今泉潤"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/pk_radio/"
+        ],
+        "emails": [
+          "pk_radio@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T01:00:00",
+        "end": "2020-03-28T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "ツキプロ★ナイト",
+        "hosts": [
+          "田所陽向",
+          "千葉瑞己"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/tsukini/"
+        ],
+        "emails": [
+          "tsukini@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T01:30:00",
+        "end": "2020-03-28T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "帆世・宗悟のアダルトボーイ",
+        "hosts": [
+          "帆世 雄一　仲村 宗悟"
+        ],
+        "urls": [],
+        "emails": [
+          "adult@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T02:00:00",
+        "end": "2020-03-28T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "深町寿成・小松昌平 TWO for ONE",
+        "hosts": [
+          "深町寿成",
+          "小松昌平"
+        ],
+        "urls": [
+          "https://twitter.com/tfo_agonp"
+        ],
+        "emails": [
+          "tfo@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T02:30:00",
+        "end": "2020-03-28T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "寺島惇太のだいたいイベント前夜",
+        "hosts": [
+          "寺島惇太"
+        ],
+        "urls": [
+          "http://juntaterashima.com/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T03:00:00",
+        "end": "2020-03-28T03:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "梶裕貴のひとりごと",
+        "hosts": [
+          "梶裕貴"
+        ],
+        "urls": [],
+        "emails": [
+          "kaji@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T03:30:00",
+        "end": "2020-03-28T04:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "八木菜緒のガチ！コスラブ",
+        "hosts": [
+          "八木菜緒"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/alb/"
+        ],
+        "emails": [
+          "alb5@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-28T04:00:00",
+        "end": "2020-03-28T06:00:00",
+        "length": 120,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  },
+  {
+    "date": "2020-03-21T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-21T06:00:00",
+        "end": "2020-03-21T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "西山彩佳の本気！アニラブ女王五代目降臨ＳＰ",
+        "hosts": [
+          "西山彩佳",
+          "吉野瑞穂",
+          "乃並なの",
+          "アクタリウム"
+        ],
+        "urls": [],
+        "emails": [
+          "sag@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T07:00:00",
+        "end": "2020-03-21T07:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "染谷俊之のあさステ！",
+        "hosts": [
+          "染谷俊之"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/asast/"
+        ],
+        "emails": [
+          "sat_asast@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T07:30:00",
+        "end": "2020-03-21T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "三澤紗千香のラジオを聴くじゃんね！",
+        "hosts": [
+          "三澤紗千香"
+        ],
+        "urls": [],
+        "emails": [
+          "sachika@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T08:00:00",
+        "end": "2020-03-21T08:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "TrySailのTRYangle harmony",
+        "hosts": [
+          "麻倉もも",
+          "雨宮天",
+          "夏川椎菜"
+        ],
+        "urls": [
+          "http://try.secondshot.jp/"
+        ],
+        "emails": [
+          "try@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T08:30:00",
+        "end": "2020-03-21T09:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "白黒瞳ちゃん",
+        "hosts": [
+          "白石晴香",
+          "黒木ほの香",
+          "関根瞳"
+        ],
+        "urls": [],
+        "emails": [
+          "chan@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T09:00:00",
+        "end": "2020-03-21T09:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "この木なんの木　青木と黒木",
+        "hosts": [
+          "青木瑠璃子",
+          "黒木ほの香"
+        ],
+        "urls": [],
+        "emails": [
+          "aokikuroki@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T09:30:00",
+        "end": "2020-03-21T10:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "藤咲彩音と髙橋彩音のあさやね！",
+        "hosts": [
+          "藤咲彩音",
+          "髙橋彩音"
+        ],
+        "urls": [],
+        "emails": [
+          "asayane@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T10:00:00",
+        "end": "2020-03-21T12:00:00",
+        "length": 120,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "&CAST!!アワー　ラブテン！",
+        "hosts": [
+          "阪口大助",
+          "米澤円",
+          "週替わりラブエールメンバー"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/loveten/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T12:00:00",
+        "end": "2020-03-21T13:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブバンケット！",
+        "hosts": [
+          "阿座上洋平",
+          "浜田洋平"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T13:00:00",
+        "end": "2020-03-21T14:00:00",
+        "length": 60,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "Ａ＆Ｇワンダフルサタデー！",
+        "hosts": [
+          "湊元りょう",
+          "吉野瑞穂"
+        ],
+        "urls": [],
+        "emails": [
+          "live@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T14:00:00",
+        "end": "2020-03-21T14:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "髙橋麻里のたかまりっ！",
+        "hosts": [
+          "髙橋麻里"
+        ],
+        "urls": [],
+        "emails": [
+          "mari@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T14:30:00",
+        "end": "2020-03-21T15:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "サンセルモ presents 結婚式は あいのなかで",
+        "hosts": [
+          "野中藍",
+          "ゲスト声優"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/ainaka/"
+        ],
+        "emails": [
+          "ainaka@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T15:00:00",
+        "end": "2020-03-21T15:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "鈴木みのりと笑顔満タンで！",
+        "hosts": [
+          "鈴木みのり"
+        ],
+        "urls": [],
+        "emails": [
+          "minori@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T15:30:00",
+        "end": "2020-03-21T16:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "遊星高校ラジオ部＠部員募集中",
+        "hosts": [
+          "天月",
+          "山本和臣"
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T16:00:00",
+        "end": "2020-03-21T16:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "私花。らじお！",
+        "hosts": [
+          "MoeMi",
+          "大森日雅",
+          "宍戸智恵",
+          "若林倫香",
+          "鳥部万里子"
+        ],
+        "urls": [],
+        "emails": [
+          "watahana@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T16:30:00",
+        "end": "2020-03-21T17:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "篠田みなみ・指出毬亜のちぐはぐ。",
+        "hosts": [
+          "篠田みなみ",
+          "指出毬亜"
+        ],
+        "urls": [
+          "http://ag-ag.com/"
+        ],
+        "emails": [
+          "hug@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T17:00:00",
+        "end": "2020-03-21T17:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー　青木瑠璃子・廣瀬千夏のラブパレット！",
+        "hosts": [
+          "青木瑠璃子",
+          "廣瀬千夏"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/lovepalette/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T17:30:00",
+        "end": "2020-03-21T18:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "超速電波ヴァルキリータ→ン",
+        "hosts": [
+          "山本希望",
+          "佳村はるか",
+          "檜山修之"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/v_turn/"
+        ],
+        "emails": [
+          "v_turn@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T18:00:00",
+        "end": "2020-03-21T18:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ラムネムララララムラムララジオ",
+        "hosts": [
+          "湊元りょう",
+          "富沢恵莉"
+        ],
+        "urls": [
+          "https://lamuneproject.com/"
+        ],
+        "emails": [
+          "lamune@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T18:30:00",
+        "end": "2020-03-21T19:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "洲崎綾のバババババーチャル",
+        "hosts": [
+          "洲崎綾",
+          "Vtuberさん"
+        ],
+        "urls": [
+          "https://twitter.com/vvvvv_suzakiaya?lang=ja"
+        ],
+        "emails": [
+          "vvvvv@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T19:00:00",
+        "end": "2020-03-21T21:00:00",
+        "length": 120,
+        "program_type": "Live",
+        "stream_type": "Audio",
+        "title": "A&Gリクエストアワー　阿澄佳奈のキミまち！",
+        "hosts": [
+          "阿澄佳奈",
+          "青木佑磨",
+          "浅川梨奈",
+          "佐々木琴子",
+          "キミまちなびレンジャー：（＜隊長＞宮島咲良",
+          "忍野さら",
+          "ＹＵＲｉＫＡ",
+          "寺坂尚呂己",
+          "佐々木舞香（＝ＬＯＶＥ））",
+          "Hi!Superb"
+        ],
+        "urls": [
+          "https://twitter.com/kimimachi_qr"
+        ],
+        "emails": [
+          "kimimachi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-21T21:00:00",
+        "end": "2020-03-21T23:00:00",
+        "length": 120,
+        "program_type": "Live",
+        "stream_type": "Audio",
+        "title": "A&G TRIBAL RADIOエジソン",
+        "hosts": [
+          "江口拓也",
+          "大西沙織"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/agson/"
+        ],
+        "emails": [
+          "agson@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/agson.gif"
+        ]
+      },
+      {
+        "start": "2020-03-21T23:00:00",
+        "end": "2020-03-22T00:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Audio",
+        "title": "A&Gメディアステーション　こむちゃっとカウントダウン",
+        "hosts": [
+          "櫻井孝宏",
+          "白石晴香"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/comcha/"
+        ],
+        "emails": [
+          "comcha@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T00:00:00",
+        "end": "2020-03-22T01:00:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Audio",
+        "title": "セカンドショットアワー「戸松遥のココロ☆ハルカス」「寿美菜子のラフラフ」",
+        "hosts": [
+          "戸松遥",
+          "寿美菜子"
+        ],
+        "urls": [
+          "http://ageage.secondshot.jp/",
+          "http://harukas.secondshot.jp/",
+          "http://laugh-rough.secondshot.jp/"
+        ],
+        "emails": [
+          "harukas@joqr.net",
+          "375@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/tomatsu.gif",
+          "http://www.agqr.jp/timetable/rafurafu.gif"
+        ]
+      },
+      {
+        "start": "2020-03-22T01:00:00",
+        "end": "2020-03-22T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "白石晴香と河野ひよりの「ふたラジ！！」",
+        "hosts": [
+          "白石晴香",
+          "河野ひより"
+        ],
+        "urls": [
+          "https://twitter.com/futaradi"
+        ],
+        "emails": [
+          "futaradi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T01:30:00",
+        "end": "2020-03-22T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "白黒瞳ちゃん",
+        "hosts": [
+          "白石晴香",
+          "黒木ほの香",
+          "関根瞳"
+        ],
+        "urls": [],
+        "emails": [
+          "chan@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T02:00:00",
+        "end": "2020-03-22T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "イコラジ　“ＲＡＤＩＯ＝ＬＯＶＥ”",
+        "hosts": [
+          "＝ＬＯＶＥのみなさん"
+        ],
+        "urls": [
+          "http://equal-love.jp/"
+        ],
+        "emails": [
+          "eqlove@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T02:30:00",
+        "end": "2020-03-22T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ペーパーアイドル！！",
+        "hosts": [
+          "サンスポアイドルリポーター（ＳＩＲ）",
+          "楽遊アイドル部",
+          "MEID"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/paper/"
+        ],
+        "emails": [
+          "paper@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T03:00:00",
+        "end": "2020-03-22T03:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "ラジオどっとあい　天野聡美のおひとりさまご来店～",
+        "hosts": [
+          "天野聡美"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/toro/"
+        ],
+        "emails": [
+          "di@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T03:30:00",
+        "end": "2020-03-22T04:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "MAN TWO MONTH RADIO 汐谷文康解剖白書",
+        "hosts": [
+          "汐谷文康"
+        ],
+        "urls": [],
+        "emails": [
+          "mtmr@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T04:00:00",
+        "end": "2020-03-22T06:00:00",
+        "length": 120,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  },
+  {
+    "date": "2020-03-22T00:00:00",
+    "programs": [
+      {
+        "start": "2020-03-22T06:00:00",
+        "end": "2020-03-22T07:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "西山彩佳の本気！アニラブ女王五代目降臨ＳＰ",
+        "hosts": [
+          "西山彩佳",
+          "吉野瑞穂",
+          "乃並なの",
+          "アクタリウム"
+        ],
+        "urls": [],
+        "emails": [
+          "sag@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T07:00:00",
+        "end": "2020-03-22T07:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Movie",
+        "title": "篠田みなみ・指出毬亜のちぐはぐ。",
+        "hosts": [
+          "篠田みなみ",
+          "指出毬亜"
+        ],
+        "urls": [
+          "http://ag-ag.com/"
+        ],
+        "emails": [
+          "hug@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T07:30:00",
+        "end": "2020-03-22T08:00:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "高垣彩陽のあしたも晴レルヤ",
+        "hosts": [
+          "高垣彩陽"
+        ],
+        "urls": [
+          "http://hareruya.secondshot.jp/"
+        ],
+        "emails": [
+          "ayahi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T08:00:00",
+        "end": "2020-03-22T09:00:00",
+        "length": 60,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "セカンドショットアワー「戸松遥のココロ☆ハルカス」「寿美菜子のラフラフ」",
+        "hosts": [
+          "戸松遥",
+          "寿美菜子"
+        ],
+        "urls": [
+          "http://ageage.secondshot.jp/",
+          "http://harukas.secondshot.jp/",
+          "http://laugh-rough.secondshot.jp/"
+        ],
+        "emails": [
+          "harukas@joqr.net",
+          "375@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/tomatsu.gif",
+          "http://www.agqr.jp/timetable/rafurafu.gif"
+        ]
+      },
+      {
+        "start": "2020-03-22T09:00:00",
+        "end": "2020-03-22T09:30:00",
+        "length": 30,
+        "program_type": "Repeat",
+        "stream_type": "Audio",
+        "title": "花澤香菜のひとりでできるかな？",
+        "hosts": [
+          "花澤香菜"
+        ],
+        "urls": [
+          "https://twitter.com/hitokana_qr"
+        ],
+        "emails": [
+          "dekirukana@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T09:30:00",
+        "end": "2020-03-22T10:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "声優グランプリ　ザ・Ｒａｄｉｏ",
+        "hosts": [
+          "広島編集長",
+          "田中真奈美"
+        ],
+        "urls": [
+          "http://seigura.com/"
+        ],
+        "emails": [
+          "seigura@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T10:00:00",
+        "end": "2020-03-22T10:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "アフィリア魔法学院放送部",
+        "hosts": [
+          "純情のアフィリア"
+        ],
+        "urls": [
+          "http://afiliasaga.jp/"
+        ],
+        "emails": [
+          "afilia@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T10:30:00",
+        "end": "2020-03-22T11:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "ここいば！",
+        "hosts": [
+          "香里有佐",
+          "小山百代",
+          "射場美波"
+        ],
+        "urls": [
+          "http://vstation.net/"
+        ],
+        "emails": [
+          "kokoiba@obc1314.com"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T11:00:00",
+        "end": "2020-03-22T11:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "くらてん！",
+        "hosts": [
+          "天城サリー",
+          "倉岡水巴"
+        ],
+        "urls": [
+          "http://www.nanabunnonijyuuni.com/"
+        ],
+        "emails": [
+          "kuraten@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T11:30:00",
+        "end": "2020-03-22T12:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "のざP・駒形友梨のライブドッグ！",
+        "hosts": [
+          "野崎圭一",
+          "駒形友梨",
+          "柿島伸次"
+        ],
+        "urls": [],
+        "emails": [
+          "dog@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T12:00:00",
+        "end": "2020-03-22T12:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "安済知佳　いちかばちか",
+        "hosts": [
+          "安済知佳"
+        ],
+        "urls": [
+          "https://www.instagram.com/chikachika_agqr/"
+        ],
+        "emails": [
+          "chika@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T12:30:00",
+        "end": "2020-03-22T13:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "小澤亜李・長縄まりあのおざなり",
+        "hosts": [
+          "小澤亜李",
+          "長縄まりあ"
+        ],
+        "urls": [
+          "https://twitter.com/ozanari1134"
+        ],
+        "emails": [
+          "ozanari@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T13:00:00",
+        "end": "2020-03-22T13:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "森久保祥太郎 presents IRONBUNNY'S ROCK ROCKER ROCKEST",
+        "hosts": [
+          "森久保祥太郎",
+          "Hina",
+          "Kotono",
+          "Minami",
+          "Ediee Ironbunny"
+        ],
+        "urls": [
+          "https://ironbunny.jp/"
+        ],
+        "emails": [
+          "rrr@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T13:30:00",
+        "end": "2020-03-22T14:30:00",
+        "length": 60,
+        "program_type": "Live",
+        "stream_type": "Movie",
+        "title": "&CAST!!!アワー ラブランチ！ザ・サンデー",
+        "hosts": [
+          "劇団プレステージ"
+        ],
+        "urls": [
+          "https://www.and-cast.com/"
+        ],
+        "emails": [
+          "https://radio.bandainamcoid.com/messageAndcast.php?id=sun"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T14:30:00",
+        "end": "2020-03-22T15:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "にじさんじpresentsだいたいにじさんじのらじお",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [
+          "nijisanji@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T15:00:00",
+        "end": "2020-03-22T15:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "えなこの○○ラジオ",
+        "hosts": [
+          "えなこ",
+          "青木佑磨"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/enako/"
+        ],
+        "emails": [
+          "enako@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T15:30:00",
+        "end": "2020-03-22T16:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "虹のコンキスタドール　ふわりん放送局　with GEMS COMPANY",
+        "hosts": [
+          "鶴見萌",
+          "中村朱里",
+          "花菱撫子",
+          "長谷みこと"
+        ],
+        "urls": [
+          "http://2zicon.tokyo/"
+        ],
+        "emails": [
+          "2zicon@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T16:00:00",
+        "end": "2020-03-22T16:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "和田昌之と金子有希のWADAX Radio",
+        "hosts": [
+          "和田昌之",
+          "金子有希"
+        ],
+        "urls": [
+          "http://www.joqr.co.jp/wadax/"
+        ],
+        "emails": [
+          "wadax@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T16:30:00",
+        "end": "2020-03-22T17:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "徳井青空・久保ユリカ　アルマギア情報局",
+        "hosts": [
+          "徳井青空",
+          "久保ユリカ"
+        ],
+        "urls": [
+          "http://armagia.com/"
+        ],
+        "emails": [
+          "magia@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T17:00:00",
+        "end": "2020-03-22T17:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "夜中メイクが気になったから",
+        "hosts": [
+          "たかはし智秋",
+          "寺川愛美",
+          "ほか"
+        ],
+        "urls": [
+          "http://vstation.net/"
+        ],
+        "emails": [],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T17:30:00",
+        "end": "2020-03-22T18:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "めっちゃすきやねん",
+        "hosts": [
+          "大空直美",
+          "中島唯",
+          "松田颯水"
+        ],
+        "urls": [
+          "http://vstation.net/b/mettya"
+        ],
+        "emails": [
+          "mecchasuki55@obc1314.com"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T18:00:00",
+        "end": "2020-03-22T18:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "ワシザキスタイル＊ヨシオカモード",
+        "hosts": [
+          "鷲崎健",
+          "吉岡茉祐"
+        ],
+        "urls": [],
+        "emails": [
+          "mode@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T18:30:00",
+        "end": "2020-03-22T19:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "かなことさらら",
+        "hosts": [
+          "高槻かなこ",
+          "八島さらら"
+        ],
+        "urls": [],
+        "emails": [
+          "kanasara@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T19:00:00",
+        "end": "2020-03-22T19:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "飛べっ！石飛！",
+        "hosts": [
+          "石飛恵里花"
+        ],
+        "urls": [
+          "http://purelymonster.jp/"
+        ],
+        "emails": [
+          "stone@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T19:30:00",
+        "end": "2020-03-22T20:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "早見沙織の ふり～すたいる♪",
+        "hosts": [
+          "早見沙織"
+        ],
+        "urls": [],
+        "emails": [
+          "frst@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T20:00:00",
+        "end": "2020-03-22T20:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "小原好美のココロおきなく",
+        "hosts": [
+          "小原好美"
+        ],
+        "urls": [
+          "https://twitter.com/kokoradi_joqr"
+        ],
+        "emails": [
+          "kokoradi@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T20:30:00",
+        "end": "2020-03-22T21:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "この木なんの木　青木と黒木",
+        "hosts": [
+          "青木瑠璃子",
+          "黒木ほの香"
+        ],
+        "urls": [],
+        "emails": [
+          "aokikuroki@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T21:00:00",
+        "end": "2020-03-22T21:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "大橋彩香のAny Beat！",
+        "hosts": [
+          "大橋彩香"
+        ],
+        "urls": [],
+        "emails": [
+          "beat@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T21:30:00",
+        "end": "2020-03-22T22:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "井澤美香子・諏訪ななかのふわさた",
+        "hosts": [
+          "井澤美香子",
+          "諏訪ななか"
+        ],
+        "urls": [],
+        "emails": [
+          "fuwa@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T22:00:00",
+        "end": "2020-03-22T22:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Movie",
+        "title": "逢田梨香子のＲＡＲＡＲＡｄｉｏ",
+        "hosts": [
+          "逢田梨香子"
+        ],
+        "urls": [],
+        "emails": [
+          "rikako@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T22:30:00",
+        "end": "2020-03-22T23:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "内山昂輝の1クール！",
+        "hosts": [
+          "内山昂輝"
+        ],
+        "urls": [
+          "https://twitter.com/one_joqr"
+        ],
+        "emails": [
+          "one@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T23:00:00",
+        "end": "2020-03-22T23:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "梶裕貴のひとりごと",
+        "hosts": [
+          "梶裕貴"
+        ],
+        "urls": [],
+        "emails": [
+          "kaji@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-22T23:30:00",
+        "end": "2020-03-23T00:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "天才軍師",
+        "hosts": [
+          "安元洋貴",
+          "細谷佳正"
+        ],
+        "urls": [
+          "http://www.marine-e.net/sp/komei/"
+        ],
+        "emails": [
+          "komei@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/gunshi_bana.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-23T00:00:00",
+        "end": "2020-03-23T00:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "P.S.元気です。孝宏",
+        "hosts": [
+          "櫻井孝宏"
+        ],
+        "urls": [
+          "http://takahiro-happyo.seesaa.net/"
+        ],
+        "emails": [
+          "psgenki@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/ps.gif"
+        ]
+      },
+      {
+        "start": "2020-03-23T00:30:00",
+        "end": "2020-03-23T01:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "石川界人のとまどいイルカ",
+        "hosts": [
+          "石川界人"
+        ],
+        "urls": [
+          "http://joqrextend.co.jp/extend/"
+        ],
+        "emails": [
+          "extend@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T01:00:00",
+        "end": "2020-03-23T01:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "RADIO M４!!!!",
+        "hosts": [
+          "濱野大輝",
+          "天﨑滉平",
+          "永塚拓馬",
+          "市川太一"
+        ],
+        "urls": [
+          "http://www.marine-e.net/sp/radio_m4/"
+        ],
+        "emails": [
+          "m4@joqr.net"
+        ],
+        "images": [
+          "http://www.agqr.jp/timetable/img/M4_bnr_20190702.jpg"
+        ]
+      },
+      {
+        "start": "2020-03-23T01:30:00",
+        "end": "2020-03-23T02:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "思春期が終わりません！！",
+        "hosts": [
+          "浅沼晋太郎",
+          "鷲崎健"
+        ],
+        "urls": [],
+        "emails": [
+          "shisyunki@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T02:00:00",
+        "end": "2020-03-23T02:30:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "宏太朗と裕一郎　ひょろっと男子",
+        "hosts": [
+          "西山宏太朗",
+          "梅原裕一郎"
+        ],
+        "urls": [],
+        "emails": [
+          "hyoro@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T02:30:00",
+        "end": "2020-03-23T03:00:00",
+        "length": 30,
+        "program_type": "Normal",
+        "stream_type": "Audio",
+        "title": "村瀬くんと八代くん（仮）",
+        "hosts": [
+          "村瀬歩",
+          "八代拓"
+        ],
+        "urls": [],
+        "emails": [
+          "murashiro@joqr.net"
+        ],
+        "images": []
+      },
+      {
+        "start": "2020-03-23T03:00:00",
+        "end": "2020-03-23T06:00:00",
+        "length": 180,
+        "program_type": "Pause",
+        "stream_type": "Movie",
+        "title": "放送休止",
+        "hosts": [
+          ""
+        ],
+        "urls": [],
+        "emails": [],
+        "images": []
+      }
+    ]
+  }
+]
