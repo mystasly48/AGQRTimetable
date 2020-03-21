@@ -5,12 +5,12 @@
 ## Installation
 
 1. AGQRTimetable プロジェクトをビルド
-1. AGQRTimetable.dll を自身のプロジェクトに参照追加
-1. Newtonsoft.Json と HtmlAgilityPack を NuGet から追加
+1. `AGQRTimetable.dll` を自身のプロジェクトに参照追加
+1. `Newtonsoft.Json` と `HtmlAgilityPack` を NuGet から追加
 
 ## Usage
 
-AGQRコンストラクタで番組表を取得しています。
+AGQRコンストラクタで、番組表はスクレイピング済みです。
 
 ```csharp
 AGQR agqr = new AGQR();
@@ -63,7 +63,7 @@ Console.WriteLine(agqr.IsExpired);
 
 #### JSON形式の文字列を取得（ワンライン）
 
-今週の全番組表をJSON形式にシリアライズし、改行や空白で**フォーマットされていない1行**の文字列を取得します。
+今週の全番組表をJSON形式にシリアライズし、改行や空白で**フォーマットされていない1行の文字列**を取得します。
 
 ```csharp
 Console.WriteLine(agqr.JsonSimple);
