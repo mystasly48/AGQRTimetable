@@ -45,7 +45,7 @@ namespace SampleForms {
         }
       }
 
-      string path = "C:/Programming/Csharp/Library/AGQRTimetable/SampleForms/bin/Debug/Timetable.json";
+      string path = "Timetable.json";
       using (StreamWriter sw = new StreamWriter(path, false, Encoding.UTF8)) {
         sw.WriteLine(agqr.JsonFormatted);
       }
