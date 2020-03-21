@@ -28,7 +28,7 @@ namespace AGQRTimetable {
 
     public DailyPrograms Today {
       get {
-        return All.Dailies.Where(x => x.Date.Date == DateTime.Now.Date).FirstOrDefault();
+        return All.Where(x => x.Date.Date == DateTime.Now.Date).FirstOrDefault();
       }
     }
 
