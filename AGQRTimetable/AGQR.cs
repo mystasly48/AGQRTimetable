@@ -28,7 +28,7 @@ namespace AGQRTimetable {
 
     public DailyPrograms Today {
       get {
-        return All.Where(x => x.Date.Date == getSpecialDate(DateTime.Now)).FirstOrDefault();
+        return All.Where(x => x.Date.Date == GetSpecialDate(DateTime.Now)).FirstOrDefault();
       }
     }
 
@@ -153,7 +153,7 @@ namespace AGQRTimetable {
             }
           }
 
-          var spDate = getSpecialDate(program.Start);
+          var spDate = GetSpecialDate(program.Start);
           for (int i = 0; i < 7; i++) {
             if (res[i].Date == spDate) {
               res[i].Programs.Add(program);
@@ -181,7 +181,11 @@ namespace AGQRTimetable {
       Console.WriteLine();
     }
 
-    private DateTime getSpecialDate(DateTime dt) {
+    /// <summary>
+    /// If 0 to 5 am, returns previous date.
+    /// Otherwise, returns same date.
+    /// </summary>
+    public static DateTime GetSpecialDate(DateTime dt) {
       if (dt.Hour < 6) {
         return dt.AddDays(-1).Date;
       } else {
