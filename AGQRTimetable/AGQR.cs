@@ -11,6 +11,7 @@ namespace AGQRTimetable {
     private static readonly Uri TimetableUri = new Uri(TimetableUrl);
 
     public DateTime ExpiryDateTime { get; private set; }
+    public DateTime UpdatedDateTime { get; private set; }
     public List<DailyPrograms> All { get; private set; }
 
     public bool IsExpired {
@@ -58,6 +59,8 @@ namespace AGQRTimetable {
       HtmlDocument doc = new HtmlDocument();
       string html = GetHtml(TimetableUrl);
       doc.LoadHtml(html);
+
+      UpdatedDateTime = DateTime.Now;
 
       // according to today.js, the timetable will be changed at 5 AM.
       DateTime today = DateTime.Now;
