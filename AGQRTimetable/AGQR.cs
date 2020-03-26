@@ -23,13 +23,24 @@ namespace AGQRTimetable {
 
     public AGQRProgram Now {
       get {
-        return this.Today.Programs.Where(x => x.Start <= DateTime.Now && DateTime.Now <= x.End).FirstOrDefault();
+        if (this.UpdatedDateTime.Hour == 5 && DateTime.Now.Hour == 5) {
+          return GetPauseProgram();
+        } else {
+          return this.Today.Programs.Where(x => x.Start <= DateTime.Now && DateTime.Now <= x.End).FirstOrDefault();
+        }
       }
     }
 
     public DailyPrograms Today {
       get {
-        return this.All.Where(x => x.Date.Date == GetSpecializedDate(DateTime.Now)).FirstOrDefault();
+        if (this.UpdatedDateTime.Hour == 5 && DateTime.Now.Hour == 5) {
+          return new DailyPrograms() {
+            Date = GetSpecializedDate(DateTime.Now),
+            Programs = new List<AGQRProgram> { GetPauseProgram() }
+          };
+        } else {
+          return this.All.Where(x => x.Date.Date == GetSpecializedDate(DateTime.Now)).FirstOrDefault();
+        }
       }
     }
 
@@ -185,15 +196,30 @@ namespace AGQRTimetable {
     }
 
     /// <summary>
-    /// If 0 to 5 am, returns previous date.
-    /// Otherwise, returns same date.
+    /// 0時から5時の場合、前日の6時を返す。
+    /// それ以外の場合、その日の6時を返す。
     /// </summary>
     public static DateTime GetSpecializedDate(DateTime dt) {
       if (dt.Hour < 6) {
-        return dt.AddDays(-1).Date;
+        return dt.AddDays(-1).Date.AddHours(6);
       } else {
-        return dt.Date;
+        return dt.Date.AddHours(6);
       }
+    }
+
+    private AGQRProgram GetPauseProgram() {
+      AGQRProgram p = new AGQRProgram();
+      p.Start = DateTime.Now;
+      p.End = new DateTime(p.Start.Year, p.Start.Month, p.Start.Day, 6, 0, 0);
+      p.Length = (int)Math.Floor((p.End - p.Start).TotalMinutes);
+      p.ProgramType = AGQRProgramType.Pause;
+      p.StreamType = AGQRStreamType.Movie;
+      p.Title = "放送休止";
+      p.Emails = new List<string>();
+      p.Hosts = new List<string>();
+      p.Images = new List<string>();
+      p.URLs = new List<string>();
+      return p;
     }
 
     private TimeSpan getMinTimeSpan(List<DateTime> times) {
