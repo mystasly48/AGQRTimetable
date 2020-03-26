@@ -39,7 +39,7 @@ namespace AGQRTimetable {
             Programs = new List<AGQRProgram> { GetPauseProgram() }
           };
         } else {
-          return this.All.Where(x => x.Date.Date == GetSpecializedDate(DateTime.Now)).FirstOrDefault();
+          return this.All.Where(x => x.Date.Date == GetSpecializedDate(DateTime.Now).Date).FirstOrDefault();
         }
       }
     }
