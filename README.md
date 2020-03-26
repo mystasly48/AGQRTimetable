@@ -10,7 +10,7 @@
 
 ## Usage
 
-AGQRコンストラクタで、番組表はスクレイピング済みです。
+AGQRコンストラクタで番組表をスクレイピングします。
 
 ```csharp
 AGQR agqr = new AGQR();
@@ -61,6 +61,14 @@ Console.WriteLine(agqr.ExpiryDateTime);
 Console.WriteLine(agqr.IsExpired);
 ```
 
+#### 番組表の取得日時（更新日時）を取得
+
+AGQRクラスのコンストラクタ実行時、または Refresh() メソッド実行時の時間です。
+
+```csharp
+Console.WriteLine(agqr.UpdatedDateTime);
+```
+
 #### JSON形式の文字列を取得（ワンライン）
 
 今週の全番組表をJSON形式にシリアライズし、改行や空白で**フォーマットされていない1行の文字列**を取得します。
@@ -85,4 +93,19 @@ Console.WriteLine(agqr.JsonFormatted);
 
 ```csharp
 agqr.Refresh();
+```
+
+#### 番組表的な日付を取得
+
+6時から29時（5時）を同日時として、その日付の0時を返します。
+
+##### 例
+
+- 3月26日6時 の場合、3月26日0時 を返します。
+- 3月26日12時 の場合、3月26日0時 を返します。
+- 3月27日0時 の場合、3月26日0時 を返します。
+- 3月27日5時 の場合、3月26日0時 を返します。
+
+```csharp
+Console.WriteLine(AGQR.GetSpecializedDate(DateTime.Now));
 ```
