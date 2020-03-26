@@ -35,7 +35,7 @@ namespace AGQRTimetable {
       get {
         if (this.UpdatedDateTime.Hour == 5 && DateTime.Now.Hour == 5) {
           return new DailyPrograms() {
-            Date = GetSpecializedDate(DateTime.Now),
+            Date = GetSpecializedDate(DateTime.Now).Date,
             Programs = new List<AGQRProgram> { GetPauseProgram() }
           };
         } else {
@@ -169,7 +169,7 @@ namespace AGQRTimetable {
 
           var spDate = GetSpecializedDate(program.Start);
           for (int i = 0; i < 7; i++) {
-            if (res[i].Date == spDate) {
+            if (res[i].Date == spDate.Date) {
               res[i].Programs.Add(program);
               break;
             }
