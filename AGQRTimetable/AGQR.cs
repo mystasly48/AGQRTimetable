@@ -17,40 +17,40 @@ namespace AGQRTimetable {
     public bool IsExpired {
       get {
         // ExpiryTime is 05:00, and if it is, the timetable is alredy expired;
-        return (ExpiryDateTime <= DateTime.Now);
+        return (this.ExpiryDateTime <= DateTime.Now);
       }
     }
 
     public AGQRProgram Now {
       get {
-        return Today.Programs.Where(x => x.Start <= DateTime.Now && DateTime.Now <= x.End).FirstOrDefault();
+        return this.Today.Programs.Where(x => x.Start <= DateTime.Now && DateTime.Now <= x.End).FirstOrDefault();
       }
     }
 
     public DailyPrograms Today {
       get {
-        return All.Where(x => x.Date.Date == GetSpecializedDate(DateTime.Now)).FirstOrDefault();
+        return this.All.Where(x => x.Date.Date == GetSpecializedDate(DateTime.Now)).FirstOrDefault();
       }
     }
 
     public string JsonSimple {
       get {
-        return JsonConvert.SerializeObject(All);
+        return JsonConvert.SerializeObject(this.All);
       }
     }
 
     public string JsonFormatted {
       get {
-        return JsonConvert.SerializeObject(All, Formatting.Indented);
+        return JsonConvert.SerializeObject(this.All, Formatting.Indented);
       }
     }
 
     public AGQR() {
-      All = Scraping();
+      this.All = Scraping();
     }
 
     public void Refresh() {
-      All = Scraping();
+      this.All = Scraping();
     }
 
     private List<DailyPrograms> Scraping() {
@@ -60,7 +60,7 @@ namespace AGQRTimetable {
       string html = GetHtml(TimetableUrl);
       doc.LoadHtml(html);
 
-      UpdatedDateTime = DateTime.Now;
+      this.UpdatedDateTime = DateTime.Now;
 
       // according to today.js, the timetable will be changed at 5 AM.
       DateTime today = DateTime.Now;
@@ -69,7 +69,7 @@ namespace AGQRTimetable {
       }
       today = new DateTime(today.Year, today.Month, today.Day, 6, 0, 0);
 
-      ExpiryDateTime = today.AddDays(7).AddHours(-1);
+      this.ExpiryDateTime = today.AddDays(7).AddHours(-1);
 
       List<DateTime> times = Enumerable.Repeat(new DateTime(), 7).ToList();
       for (int i = 0; i < 7; i++) {
