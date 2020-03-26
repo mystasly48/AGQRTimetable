@@ -185,14 +185,14 @@ namespace AGQRTimetable {
     }
 
     /// <summary>
-    /// If 0 to 5 am, returns previous date.
-    /// Otherwise, returns same date.
+    /// 0時から5時の場合、前日の6時を返す。
+    /// それ以外の場合、その日の6時を返す。
     /// </summary>
     public static DateTime GetSpecializedDate(DateTime dt) {
       if (dt.Hour < 6) {
-        return dt.AddDays(-1).Date;
+        return dt.AddDays(-1).Date.AddHours(6);
       } else {
-        return dt.Date;
+        return dt.Date.AddHours(6);
       }
     }
 
